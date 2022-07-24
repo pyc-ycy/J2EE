@@ -1,7 +1,5 @@
 package base.util;
 
-import org.springframework.util.StringUtils;
-
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
